@@ -19,6 +19,10 @@ html {
 	--button-bg: rgba(0,122,255,255);
 }
 
+h3 {
+	font-stretch: expanded;
+}
+
 @font-face {
 	font-family: 'SF Pro';
 	src: url('SF-Pro.ttf') format('truetype');
@@ -84,6 +88,7 @@ h2 {
 	justify-content: center;
 	align-items: center;
 	flex-direction: row;
+
 }
 
 .context {
@@ -99,6 +104,7 @@ h2 {
 }
 
 .context h1 {
+	font-stretch: expanded;
 	text-align: center;
 	font-size: 90px;
 	font-weight: 600;
@@ -315,7 +321,7 @@ div {
 
 	cursor: pointer;
 	border: none;
-	font-size: 17px;
+	font-size: 15px;
 	font-weight: 400;
 	padding: 13px 30px 13px 30px;
 	border-radius: 50px;
