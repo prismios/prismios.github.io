@@ -1,2 +1,1 @@
-# prismios.github.io
-The Official Prism Website.
+The Website for Prism, an iOS Customization and Sideloading App.
